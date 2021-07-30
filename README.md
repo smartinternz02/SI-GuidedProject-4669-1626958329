@@ -1,6 +1,6 @@
 # Predictive-Maintenance-Of-Airlines :airplane:
 
-<img src="https://github.com/TheRoryWillAim/Predictive-Maintenance-Of-Airlines/blob/main/Dataset/demo.gif" >
+<img src="https://github.com/smartinternz02/SI-GuidedProject-4669-1626958329/blob/main/Dataset/demo.gif" >
 
 [`Demo Video Link`] : [`https://drive.google.com/drive/folders/1WUa9eRHjRuhR25ubqFBmioQG82jMBXHk?usp=sharing`](https://drive.google.com/drive/folders/1WUa9eRHjRuhR25ubqFBmioQG82jMBXHk?usp=sharing)
 
@@ -85,7 +85,7 @@ ________________________________________________________________________________
 
 ## Flowchart
 
-<img src="https://github.com/TheRoryWillAim/Predictive-Maintenance-Of-Airlines/blob/main/Dataset/flowchart.PNG" >
+<img src="https://github.com/smartinternz02/SI-GuidedProject-4669-1626958329/blob/main/Dataset/flowchart.PNG" >
 
 __________________________________________________________________________________________
 
